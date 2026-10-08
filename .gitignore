@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.env
+.env.local
+*.log
+output/*.json
+test-results/
+playwright-report/
+.DS_Store
+.vscode/
+*.pyc
+__pycache__/
